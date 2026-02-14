@@ -1,9 +1,11 @@
 import { motion } from 'framer-motion';
+import { useNavigate } from 'react-router-dom';
 import { HeroScene } from '@/components/3d/HeroScene';
 import { GrimoireButton } from '@/components/ui/GrimoireButton';
 import craveqLogo from '@/assets/craveq-logo.png';
 
 export const Hero = () => {
+  const navigate = useNavigate();
   return (
     <section className="relative min-h-screen flex items-center justify-center overflow-hidden">
       {/* Background gradient */}
@@ -67,7 +69,7 @@ export const Hero = () => {
             animate={{ opacity: 1, scale: 1 }}
             transition={{ duration: 0.6, delay: 0.8 }}
           >
-            <GrimoireButton size="lg" className="animate-glow-pulse">
+            <GrimoireButton size="lg" className="animate-glow-pulse" onClick={() => navigate('/decode')}>
               <span className="mr-2">⚗</span>
               Decode My Craving
             </GrimoireButton>
