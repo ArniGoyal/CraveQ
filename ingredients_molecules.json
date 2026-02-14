@@ -1,0 +1,46 @@
+{
+  "wheat": ["gluten", "gliadin", "starch", "ferulic acid"],
+  "whole wheat": ["gluten", "fiber", "ferulic acid", "magnesium"],
+  "refined flour": ["starch", "gluten"],
+  "barley": ["beta-glucan", "selenium", "fiber"],
+  "millet": ["magnesium", "fiber", "phenolic compounds"],
+  "sorghum": ["anthocyanin", "polyphenols", "fiber"],
+  "corn": ["zeaxanthin", "lutein", "starch"],
+  "white rice": ["starch", "amylose", "amylopectin"],
+  "brown rice": ["gamma-oryzanol", "ferulic acid", "fiber"],
+
+  "chicken": ["creatine", "carnosine", "inosine monophosphate", "protein"],
+  "chicken breast": ["protein", "creatine", "carnosine"],
+  "chicken thigh": ["protein", "iron", "carnosine"],
+  "turkey": ["protein", "tryptophan", "carnosine"],
+  "duck": ["iron", "protein", "oleic acid"],
+
+  "beef": ["myoglobin", "creatine", "carnosine", "iron"],
+  "mutton": ["myoglobin", "iron", "saturated fat"],
+  "pork": ["thiamine", "protein", "creatine"],
+  "lamb": ["iron", "carnosine", "myoglobin"],
+  "processed meat": ["sodium nitrate", "nitrite", "saturated fat"],
+
+  "fish": ["omega-3 fatty acids", "trimethylamine", "taurine"],
+  "salmon": ["omega-3 fatty acids", "astaxanthin", "protein"],
+  "tuna": ["omega-3 fatty acids", "selenium", "protein"],
+  "sardine": ["omega-3 fatty acids", "calcium", "vitamin D"],
+  "mackerel": ["omega-3 fatty acids", "vitamin D", "selenium"],
+  "shrimp": ["astaxanthin", "protein", "iodine"],
+
+  "egg": ["albumin", "lecithin", "cholesterol", "protein"],
+  "egg white": ["albumin", "protein"],
+  "egg yolk": ["cholesterol", "lecithin", "vitamin D"],
+
+  "milk": ["lactose", "casein", "calcium"],
+  "skim milk": ["lactose", "casein", "calcium"],
+  "cheese": ["casein", "butyric acid", "tyramine"],
+  "paneer": ["casein", "calcium", "protein"],
+  "butter": ["butyric acid", "saturated fat"],
+  "ghee": ["butyric acid", "saturated fat"],
+  "curd": ["lactic acid", "probiotics"],
+  "greek yogurt": ["probiotics", "protein", "calcium"],
+
+  "tofu": ["isoflavones", "calcium", "protein"],
+  "tempeh": ["isoflavones", "probiotics", "protein"]
+}
