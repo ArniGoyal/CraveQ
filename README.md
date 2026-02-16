@@ -1,4 +1,5 @@
 # 🏺 CraveQ: The Molecular Ghost of Your Greatest Cravings.
+[![GitHub license](https://img.shields.io/github/license/ArniGoyal/CraveTech)](./LICENSE)
 
 > **"Cooking is the art of transformation; CraveQ is the map for the journey."**
 
